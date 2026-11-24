@@ -1,4 +1,4 @@
-# Student Registration Portal
+# Student Registration Form
 
 A responsive, zero-dependency web application for student admission registration, ready to deploy on any static hosting platform or web server.
 
